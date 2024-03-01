@@ -42,8 +42,8 @@ Welcome to my GitHub profile! Here you'll find an assortment of projects, experi
 
 ## Let's Connect!
 
-- 🌐 [Portfolio Website]([link_to_portfolio](https://www.sepehribehnam.com/))
-- 💼 [LinkedIn]([link_to_linkedin](https://www.linkedin.com/in/behnam-sepehri/))
-- 📧 Email: [your@email.com](mailto:behnam.sep@gmail.com)
+- 🌐 [Portfolio Website](https://www.sepehribehnam.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/behnam-sepehri/)
+- 📧 Email: [behnam.sep@gmail.com](mailto:behnam.sep@gmail.com)
 
 
