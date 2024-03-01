@@ -1,9 +1,49 @@
-<h1 align="center">Hi 👋, I'm Behnam</h1>
-<h3 align="center">A passionate Game developer from Netherlands</h3>
+# Hi there! 👋 I'm Behnam Sepehri, a Game Developer passionate about XR/VR and Mobile Platforms!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Welcome to my GitHub profile! Here you'll find an assortment of projects, experiments, and resources related to virtual reality, augmented reality, and mobile gaming. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## About Me
+
+- 🎮 Game Developer with expertise in XR/VR and Mobile Platforms
+- 💡 Passionate about creating immersive and interactive experiences
+- 🚀 Always exploring new technologies and pushing the boundaries of what's possible in gaming
+
+## Projects
+
+### XR/VR Experiences
+
+- **Project Name**: Brief description.
+  ![Project Image/GIF](link_to_image_or_gif)
+  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
+
+- **Project Name**: Brief description.
+  ![Project Image/GIF](link_to_image_or_gif)
+  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
+
+### Mobile Games
+
+- **Project Name**: Brief description.
+  ![Project Image/GIF](link_to_image_or_gif)
+  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
+
+- **Project Name**: Brief description.
+  ![Project Image/GIF](link_to_image_or_gif)
+  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
+
+## Technologies I Work With
+
+- Unity3D
+- Unreal Engine
+- C#
+- Typescript
+- Javascript
+- Lua
+- ARCore
+
+## Let's Connect!
+
+- 🌐 [Portfolio Website]([link_to_portfolio](https://www.sepehribehnam.com/))
+- 💼 [LinkedIn]([link_to_linkedin](https://www.linkedin.com/in/behnam-sepehri/))
+- 📧 Email: [your@email.com](mailto:behnam.sep@gmail.com)
+
+
