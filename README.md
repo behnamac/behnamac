@@ -8,27 +8,6 @@ Welcome to my GitHub profile! Here you'll find an assortment of projects, experi
 - 💡 Passionate about creating immersive and interactive experiences
 - 🚀 Always exploring new technologies and pushing the boundaries of what's possible in gaming
 
-## Projects
-
-### XR/VR Experiences
-
-- **Project Name**: Brief description.
-  ![Project Image/GIF](link_to_image_or_gif)
-  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
-
-- **Project Name**: Brief description.
-  ![Project Image/GIF](link_to_image_or_gif)
-  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
-
-### Mobile Games
-
-- **Project Name**: Brief description.
-  ![Project Image/GIF](link_to_image_or_gif)
-  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
-
-- **Project Name**: Brief description.
-  ![Project Image/GIF](link_to_image_or_gif)
-  [GitHub Repository](link_to_repository) | [Demo](link_to_demo_if_available)
 
 ## Technologies I Work With
 
