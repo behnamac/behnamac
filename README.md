@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Behnam Sepehri, a Game Developer passionate about XR/VR and Mobile Platforms!
+# Hi there! 👋 I'm Behnam Sepehri, a Front-End Developer passionate about XR/VR and Mobile Platforms!
 
 Welcome to my GitHub profile! Here you'll find an assortment of projects, experiments, and resources related to virtual reality, augmented reality, and mobile gaming. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
