@@ -12,10 +12,10 @@ Welcome to my GitHub profile! Here you'll find a variety of projects, experiment
 - JavaScript
 - C#
 - Typescript
-- Javascript
+- TailwindCss
 - React
 - Node.js
-- -SQL
+- SQL
 
 ## Let's Connect!
 
