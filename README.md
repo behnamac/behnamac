@@ -21,6 +21,6 @@ Welcome to my GitHub profile! Here you'll find a variety of projects, experiment
 
 - 🌐 [Portfolio Website](https://www.behnamsepehri.de/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/behnam-sepehri/)
-- 📧 Email: [behnam.sep@gmail.com](mailto:behnam.sep@gmail.com)
+- 📧 Email: [dev@behnamsepehri.nl](mailto:dev@behnamsepehri.nl)
 
 
