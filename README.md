@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I specialize in building dynamic, responsive, and 
 ## 📞 Let’s Build Together!
 - 🌐 [Portfolio Website](https://www.behnamsepehri.nl/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/behnam-sepehri/)
-- 📧 Email: [dev@behnamsepehri.nl](mailto:behnam.sep@gmail.com.nl)
+- 📧 Email: [behnam.sep@gmail.com](mailto:behnam.sep@gmail.com)
 
 
 
